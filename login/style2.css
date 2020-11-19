@@ -1,0 +1,23 @@
+body {
+    margin: 0;
+    padding: 0;
+    background:url(../imagens/fundo2.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    font-family: sans-serif;
+    
+}
+
+.horario{
+    top: 50%;     
+    left: 50%;     
+    position: absolute;     
+    transform: translate(-50%, -50%);
+}
+th {
+    background-color:chocolate;
+    color: beige;
+   
+  }
